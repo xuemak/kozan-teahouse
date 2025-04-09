@@ -1,4 +1,5 @@
 import React from "react";
+import Link from "next/link";
 
 export default function Navbar() {
     return (
@@ -7,28 +8,28 @@ export default function Navbar() {
             <div>
                 <ul className="flex p-0 font-medium bg-purple-200 space-x-8">
                     <li>
-                        <a href="#">Milk Tea</a>
+                        <Link href="#milk-tea">Milk Tea</Link>
                     </li>
                     <li>
-                        <a href="#">Smoothies</a>
+                        <Link href="#smoothies">Smoothies</Link>
                     </li>
                     <li>
-                        <a href="#">Refreshers</a>
+                        <Link href="#refreshers">Refreshers</Link>
                     </li>
                     <li>
-                        <a href="#">Oreo Brûlée</a>
+                        <Link href="#oreo-brulee">Oreo Brûlée</Link>
                     </li>
                     <li>
-                        <a href="#">Matcha</a>
+                        <Link href="#matcha">Matcha</Link>
                     </li>
                     <li>
-                        <a href="#">Coffee</a>
+                        <Link href="#coffee">Coffee</Link>
                     </li>
                     <li>
-                        <a href="#">Milk</a>
+                        <Link href="#milk">Milk</Link>
                     </li>
                     <li>
-                        <a href="#">Cheese Foam</a>
+                        <Link href="#cheese-foam">Cheese Foam</Link>
                     </li>
                 </ul>
             </div>
