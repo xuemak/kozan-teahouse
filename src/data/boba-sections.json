@@ -2,8 +2,8 @@
     "Sections":
         [
             {
-                "Section Name:": "Milk Tea",
-                "Drink Items:": [
+                "Section Name": "Milk Tea",
+                "Drink Items": [
                     { "Drink Name": "Brown Sugar Milk Tea", "Image":"", "Price": 6.25, "Description": "Black milk tea made with non-dairy creamer, sweetened and drizzled with caramelized brown sugar." },
                     { "Drink Name": "Classic Milk Tea", "Image":"", "Price": 6.25, "Description": "Plain and simple black milk tea made with non-dairy creamer." },
                     { "Drink Name": "Jasmine Milk Tea", "Image":"", "Price": 6.25, "Description": "Green tea brewed with a slightly floral aroma made with our non-dairy creamer house milk." },
@@ -17,7 +17,7 @@
                 ]
             },
             {
-                "Section Name:": "Ice Blended",
+                "Section Name": "Shakes",
                 "Drink Items": [
                     { "Drink Name": "Taro Wave", "Image":"", "Price": 6.65, "Description": "Best-selling taro coconut milkshake served with a light swirl of sweet ube yam." },
                     { "Drink Name": "Classic Taro Milkshake", "Image":"", "Price": 6.65, "Description": "Taro shake with a hint of coconut." },
@@ -30,7 +30,7 @@
                     { "Drink Name": "Miss Lychee", "Image":"", "Price": 6.00, "Description": "Refreshing lychee slushy with a hint of fresh lemon and strawberry." },
                     { "Drink Name": "Honeydew Shake", "Image":"", "Price": 6.65, "Description": "Sweet milkshake complimented with honeydew." },
                     { "Drink Name": "Mango Wave", "Image":"", "Price": 6.65, "Description": "Dessert-like creamy mango milkshake with a hint of coconut." },
-                    { "Drink Name": "Mango Cloud", "Image":"", "Price": 6.65, "Description": "Mango slushy with cream cheese foam" },
+                    { "Drink Name": "Mango Cloud", "Image":"", "Price": 6.65, "Description": "Mango slushy with cream cheese foam." },
                     { "Drink Name": "Strawberry Shake", "Image":"", "Price": 6.50, "Description": "Tarty and sweet milkshake made with fresh strawberries." },
                     { "Drink Name": "Strawnana Smoothie", "Image":"", "Price": 6.65, "Description": "Fresh smoothie made with fresh strawberries and a whole banana." },
                     { "Drink Name": "Strawberry Funfetti", "Image":"", "Price": 6.65, "Description": "Fresh strawberry milkshake sprinkled and topped with a scoop of vanilla ice cream." },
@@ -43,11 +43,31 @@
                     { "Drink Name": "Cocoa Dream", "Image":"", "Price": 6.65, "Description": "A luscious cocoa shake swirled with milk goodness, crowned with cocoa pebbles for that extra crunch." }
                 ]
             },
-            {"Section Name:": "Refreshers"},
-            {"Section Name:": "Oreo Brulee"},
-            {"Section Name:": "Matcha"},
-            {"Section Name:": "Coffee"},
-            {"Section Name:": "Milk"},
-            {"Section Name:": "Cheese Foam"}
+            {
+                "Section Name": "Refreshers",
+                "Drink Items": [
+                    { "Drink Name": "Watermelon Kiwi", "Image":"", "Price": 6.45, "Description": "100% real watermelon juice mixed with fresh kiwi bits." },
+                    { "Drink Name": "Fresh Tea", "Image":"", "Price": 4.50, "Description": "Your choice of plain brewed tea of green tea, black tea, or roasted oolong tea." },
+                    { "Drink Name": "Summer Peach Tea", "Image":"", "Price": 5.00, "Description": "Refreshing peach tea with a splash of orange." },
+                    { "Drink Name": "Strawberry Tea", "Image":"", "Price": 5.25, "Description": "Fresh fruit tea made with real strawverry puree." },
+                    { "Drink Name": "Mango Tea", "Image":"", "Price": 5.00, "Description": "Refreshing mango tea mixed with house-made mango puree." },
+                    { "Drink Name": "Tropical Breeze", "Image":"", "Price": 5.00, "Description": "A mixture of mango and passion fruit makes tropical sweet and tarty refresher." },
+                    { "Drink Name": "Passionfruit Tea", "Image":"", "Price": 5.00, "Description": "Pleasantly sweet and tarty cousin of citrus." },
+                    { "Drink Name": "Watermelon Tea", "Image":"", "Price": 5.45, "Description": "Watermelon tea made with real fruit juiced in-house." },
+                    { "Drink Name": "Lemon Tea", "Image":"", "Price": 5.00, "Description": "House-brewed tea with a splash of pressed lemon juice." },
+                    { "Drink Name": "Watermelon Cooler", "Image":"", "Price": 6.45, "Description": "Pure watermelon slushy made with fruit cut and juiced in-house." },
+                    { "Drink Name": "Pineapple Colada", "Image":"", "Price": 5.65, "Description": "Pineapple slushy with a hint of coconut made with your choice of milk." },
+                    { "Drink Name": "Mango Cooler", "Image":"", "Price": 5.65, "Description": "Ice-blended mango slushy made with mango puree." },
+                    { "Drink Name": "Strawberry Cooler", "Image":"", "Price": 6.50, "Description": "Fruit slushy made with fresh strawberries." },
+                    { "Drink Name": "Wintermelon Lemon Tea", "Image":"", "Price": 5.00, "Description": "Refreshing sweet tea with a hint of fresh lemon juice." },
+                    { "Drink Name": "Super Kiwi Tea", "Image":"", "Price": 6.25, "Description": "Real kiwi green tea with a hint of peach, orange, and lemon." },
+                    { "Drink Name": "Lychee Tea", "Image":"", "Price": 5.00, "Description": "Naturally sweet lychee with a floral aroma." }
+                ]
+            },
+            {"Section Name": "Oreo Brulee"},
+            {"Section Name": "Matcha"},
+            {"Section Name": "Coffee"},
+            {"Section Name": "Milk"},
+            {"Section Name": "Cheese Foam"}
         ]
 }
