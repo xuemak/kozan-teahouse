@@ -1,0 +1,53 @@
+{
+    "Sections":
+        [
+            {
+                "Section Name:": "Milk Tea",
+                "Drink Items:": [
+                    { "Drink Name": "Brown Sugar Milk Tea", "Image":"", "Price": 6.25, "Description": "Black milk tea made with non-dairy creamer, sweetened and drizzled with caramelized brown sugar." },
+                    { "Drink Name": "Classic Milk Tea", "Image":"", "Price": 6.25, "Description": "Plain and simple black milk tea made with non-dairy creamer." },
+                    { "Drink Name": "Jasmine Milk Tea", "Image":"", "Price": 6.25, "Description": "Green tea brewed with a slightly floral aroma made with our non-dairy creamer house milk." },
+                    { "Drink Name": "Thai Kick", "Image":"", "Price": 6.25, "Description": "Thai milk tea with a hint of cold brew coffee." },
+                    { "Drink Name": "Taro Milk Tea", "Image":"", "Price": 6.25, "Description": "Slightly floral and bitter green milk tea paired with taro." },
+                    { "Drink Name": "Wintermelon Milk Tea", "Image":"", "Price": 6.25, "Description": "Caramel-like flavor of wintermelon makes a sweet milk tea." },
+                    { "Drink Name": "Honeydew Milk Tea", "Image":"", "Price": 6.25, "Description": "Green milk tea with honeydew." },
+                    { "Drink Name": "Rose Milk Tea", "Image":"", "Price": 6.25, "Description": "Strong floral milk tea complimented with rose." },
+                    { "Drink Name": "Tea Float", "Image":"", "Price": 6.25, "Description": "Ice cream mixed with strong tea makes an extra tasty milk tea." },
+                    { "Drink Name": "Thai Milk Tea", "Image":"", "Price": 6.25, "Description": "Our strongly-brewed Thai milk tea mixed with our non-dairy house milk is a classic favorite." }
+                ]
+            },
+            {
+                "Section Name:": "Ice Blended",
+                "Drink Items": [
+                    { "Drink Name": "Taro Wave", "Image":"", "Price": 6.65, "Description": "Best-selling taro coconut milkshake served with a light swirl of sweet ube yam." },
+                    { "Drink Name": "Classic Taro Milkshake", "Image":"", "Price": 6.65, "Description": "Taro shake with a hint of coconut." },
+                    { "Drink Name": "Brown Sugar Milk Tea", "Image":"", "Price": 6.65, "Description": "Mouthwatering combination of creamy cookie butter anda hint of coffee." },
+                    { "Drink Name": "Black Sesame Shake", "Image":"", "Price": 6.65, "Description": "Delicious nut-like flavored shake that is rich in nutrients, containing 8g of fiber and 12g of protein." },
+                    { "Drink Name": "Peaches and Cream", "Image":"", "Price": 6.65, "Description": "Sweet shake that tastes like a summery peach creamsicle." },
+                    { "Drink Name": "Matcha Shake", "Image":"", "Price": 7.25, "Description": "Milkshake made with premium-grade organic matcha, ice cream, and your choice of milk." },
+                    { "Drink Name": "Oreo Milkshake", "Image":"", "Price": 6.65, "Description": "Creamy vanilla milkshake blended with Oreo bits." },
+                    { "Drink Name": "Brown Sugar Frosty", "Image":"", "Price": 6.65, "Description": "Milk frosty drizzled with caramelized brown sugar." },
+                    { "Drink Name": "Miss Lychee", "Image":"", "Price": 6.00, "Description": "Refreshing lychee slushy with a hint of fresh lemon and strawberry." },
+                    { "Drink Name": "Honeydew Shake", "Image":"", "Price": 6.65, "Description": "Sweet milkshake complimented with honeydew." },
+                    { "Drink Name": "Mango Wave", "Image":"", "Price": 6.65, "Description": "Dessert-like creamy mango milkshake with a hint of coconut." },
+                    { "Drink Name": "Mango Cloud", "Image":"", "Price": 6.65, "Description": "Mango slushy with cream cheese foam" },
+                    { "Drink Name": "Strawberry Shake", "Image":"", "Price": 6.50, "Description": "Tarty and sweet milkshake made with fresh strawberries." },
+                    { "Drink Name": "Strawnana Smoothie", "Image":"", "Price": 6.65, "Description": "Fresh smoothie made with fresh strawberries and a whole banana." },
+                    { "Drink Name": "Strawberry Funfetti", "Image":"", "Price": 6.65, "Description": "Fresh strawberry milkshake sprinkled and topped with a scoop of vanilla ice cream." },
+                    { "Drink Name": "Strawberry Cloud", "Image":"", "Price": 7.50, "Description": "Fresh strawberry slushy layered with cream foam." },
+                    { "Drink Name": "Strawberry Oreo Shake", "Image":"", "Price": 6.65, "Description": "Fresh strawberry milkshake blended with oreo bits." },
+                    { "Drink Name": "Banana Nola", "Image":"", "Price": 6.65, "Description": "Fresh smoothie made with a whole banana, a hint of cinnamon, and caramel drizzles, topped with honey almond granola." },
+                    { "Drink Name": "Milk Tea Shake", "Image":"", "Price": 6.65, "Description": "Black milk tea shake, ice cream, and caramelized brown sugar drizzles." },
+                    { "Drink Name": "Thai Shake", "Image":"", "Price": 6.65, "Description": "Thai tea milkshake with caramelized brown sugar." },
+                    { "Drink Name": "Spooky Thai", "Image":"", "Price": 6.65, "Description": "Thai milkshake, crushed Oreos, and caramelized brown sugar drizzles." },
+                    { "Drink Name": "Cocoa Dream", "Image":"", "Price": 6.65, "Description": "A luscious cocoa shake swirled with milk goodness, crowned with cocoa pebbles for that extra crunch." }
+                ]
+            },
+            {"Section Name:": "Refreshers"},
+            {"Section Name:": "Oreo Brulee"},
+            {"Section Name:": "Matcha"},
+            {"Section Name:": "Coffee"},
+            {"Section Name:": "Milk"},
+            {"Section Name:": "Cheese Foam"}
+        ]
+}
