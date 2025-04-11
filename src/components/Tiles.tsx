@@ -79,12 +79,12 @@ export default function Tiles() {
                 height={234}
                 className="w-full"
                 alt="Taro Milk Tea"/>
-            <div className="px-3 py-13 bg-orange-100">
+            <div className="px-3 pb-4 pt-4 bg-orange-100">
                 <div className="font-black text-base mb-2 text-center uppercase">Taro Milk Tea</div>
-                <p className="text-stone-500 text-base text-center font-light text-base">
+                <p className="text-stone-500 text-base text-center font-light text-base p-2 w-50 h-30">
                     Slightly floral and bitter green milk tea paired with taro.
                 </p>
-                <p className="text-gray-700 text-base text-center p-4">
+                <p className="text-gray-700 text-base text-center pt-6">
                     $6.25
                 </p>
             </div>
@@ -96,12 +96,12 @@ export default function Tiles() {
                 height={234}
                 className="w-full"
                 alt="Wintermelon Milk Tea"/>
-            <div className="px-3 py-10 bg-orange-100">
+            <div className="px-3 pb-4 pt-4 bg-orange-100">
                 <div className="font-black text-base mb-2 text-center uppercase">Wintermelon Milk Tea</div>
-                <p className="text-stone-500 text-base text-center font-light text-base">
+                <p className="text-stone-500 text-base text-center font-light text-base p-2 w-50 h-30">
                     Caramel-like flavor of wintermelon makes a sweet milk tea.
                 </p>
-                <p className="text-gray-700 text-base text-center p-4">
+                <p className="text-gray-700 text-base text-center pt-6">
                     $6.25
                 </p>
             </div>
@@ -113,12 +113,12 @@ export default function Tiles() {
                 height={234}
                 className="w-full"
                 alt="Honeydew Milk Tea"/>
-            <div className="px-3 py-13 bg-orange-100">
+            <div className="px-3 pb-4 pt-4 bg-orange-100">
                 <div className="font-black text-base mb-2 text-center uppercase">Honeydew Milk Tea</div>
-                <p className="text-stone-500 text-base text-center font-light text-base">
+                <p className="text-stone-500 text-base text-center font-light text-base p-2 w-50 h-30">
                     Green milk tea with honeydew.
                 </p>
-                <p className="text-gray-700 text-base text-center p-4">
+                <p className="text-gray-700 text-base text-center pt-6">
                     $6.25
                 </p>
             </div>
@@ -130,12 +130,12 @@ export default function Tiles() {
                 height={234}
                 className="w-full"
                 alt="Rose Milk Tea"/>
-            <div className="px-3 py-13 bg-orange-100">
+            <div className="px-3 pb-4 pt-4 bg-orange-100">
                 <div className="font-black text-base mb-2 text-center uppercase">Rose Milk Tea</div>
-                <p className="text-stone-500 text-base text-center font-light text-base">
+                <p className="text-stone-500 text-base text-center font-light text-base p-2 w-50 h-30">
                     Strong floral milk tea complimented with rose.
                 </p>
-                <p className="text-gray-700 text-base text-center p-4">
+                <p className="text-gray-700 text-base text-center pt-6">
                     $6.25
                 </p>
             </div>
@@ -146,13 +146,13 @@ export default function Tiles() {
                 width={234}
                 height={234}
                 className="w-full"
-                alt="Tea Float"/>
-            <div className="px-3 py-10 bg-orange-100">
-                <div className="font-black text-base mb-2 text-center uppercase">Tea Float</div>
-                <p className="text-stone-500 text-base text-center font-light text-base">
+                alt="Thai Float"/>
+            <div className="px-3 pb-4 pt-4 bg-orange-100">
+                <div className="font-black text-base mb-2 text-center uppercase">Thai Float</div>
+                <p className="text-stone-500 text-base text-center font-light text-base p-2 w-50 h-30">
                     Ice cream mixed with strong tea makes an extra tasty milk tea.
                 </p>
-                <p className="text-gray-700 text-base text-center p-4">
+                <p className="text-gray-700 text-base text-center pt-6">
                     $6.25
                 </p>
             </div>
@@ -164,12 +164,12 @@ export default function Tiles() {
                 height={234}
                 className="w-full"
                 alt="Thai Milk Tea"/>
-            <div className="px-3 py-7 bg-orange-100">
+            <div className="px-3 pb-4 pt-4 bg-orange-100">
                 <div className="font-black text-base mb-2 text-center uppercase">Thai Milk Tea</div>
-                <p className="text-stone-500 text-base text-center font-light text-base">
-                    Our stronly-brewed Thai milk tea mixed with our non-dairy house milk is a classic favorite.
+                <p className="text-stone-500 text-base text-center font-light text-base p-2 w-50 h-30">
+                    Our strongly-brewed Thai milk tea mixed with our non-dairy house milk is a classic favorite.
                 </p>
-                <p className="text-gray-700 text-base text-center p-4">
+                <p className="text-gray-700 text-base text-center pt-6">
                     $6.25
                 </p>
             </div>
