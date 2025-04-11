@@ -23,15 +23,15 @@ export default function Tiles() {
             </div>
             <div className="max-w-sm rounded overflow-hidden shadow-lg">
             <Image
-                src="/images/drinks/bs-mt.webp"
+                src="/images/drinks/classic-mt.webp"
                 width={234}
                 height={234}
                 className="w-full"
-                alt="Brown Sugar Milk Tea"/>
-            <div className="px-3 py-7 bg-orange-100">
-                <div className="font-black text-base mb-2 text-center uppercase">Brown Sugar Milk Tea</div>
+                alt="Classic Milk Tea"/>
+            <div className="px-3 py-10 bg-orange-100">
+                <div className="font-black text-base mb-2 text-center uppercase">Classic Milk Tea</div>
                 <p className="text-stone-500 text-base text-center font-light text-base">
-                    Black milk tea made with non-dairy creamer, sweetened and drizzled with caramelized brown sugar.
+                    Plain and simple black milk tea made with non-dairy creamer.
                 </p>
                 <p className="text-gray-700 text-base text-center p-4">
                     $6.25
@@ -40,15 +40,15 @@ export default function Tiles() {
             </div>
             <div className="max-w-sm rounded overflow-hidden shadow-lg">
             <Image
-                src="/images/drinks/bs-mt.webp"
+                src="/images/drinks/jasmine-mt.webp"
                 width={234}
                 height={234}
                 className="w-full"
-                alt="Brown Sugar Milk Tea"/>
+                alt="Jasmine Milk Tea"/>
             <div className="px-3 py-7 bg-orange-100">
-                <div className="font-black text-base mb-2 text-center uppercase">Brown Sugar Milk Tea</div>
+                <div className="font-black text-base mb-2 text-center uppercase">Jasmine Milk Tea</div>
                 <p className="text-stone-500 text-base text-center font-light text-base">
-                    Black milk tea made with non-dairy creamer, sweetened and drizzled with caramelized brown sugar.
+                    Green tea brewed with a slightly floral aroma made with our non-dairy creamer house milk.
                 </p>
                 <p className="text-gray-700 text-base text-center p-4">
                     $6.25
@@ -57,15 +57,15 @@ export default function Tiles() {
             </div>
             <div className="max-w-sm rounded overflow-hidden shadow-lg">
             <Image
-                src="/images/drinks/bs-mt.webp"
+                src="/images/drinks/thai-kick.webp"
                 width={234}
                 height={234}
                 className="w-full"
-                alt="Brown Sugar Milk Tea"/>
-            <div className="px-3 py-7 bg-orange-100">
-                <div className="font-black text-base mb-2 text-center uppercase">Brown Sugar Milk Tea</div>
+                alt="Thai Kick"/>
+            <div className="px-3 py-13 bg-orange-100">
+                <div className="font-black text-base mb-2 text-center uppercase">Thai Kick</div>
                 <p className="text-stone-500 text-base text-center font-light text-base">
-                    Black milk tea made with non-dairy creamer, sweetened and drizzled with caramelized brown sugar.
+                    Thai milk tea with a hint of cold brew coffee.
                 </p>
                 <p className="text-gray-700 text-base text-center p-4">
                     $6.25
@@ -74,15 +74,15 @@ export default function Tiles() {
             </div>
             <div className="max-w-sm rounded overflow-hidden shadow-lg">
             <Image
-                src="/images/drinks/bs-mt.webp"
+                src="/images/drinks/taro-mt.webp"
                 width={234}
                 height={234}
                 className="w-full"
-                alt="Brown Sugar Milk Tea"/>
-            <div className="px-3 py-7 bg-orange-100">
-                <div className="font-black text-base mb-2 text-center uppercase">Brown Sugar Milk Tea</div>
+                alt="Taro Milk Tea"/>
+            <div className="px-3 py-13 bg-orange-100">
+                <div className="font-black text-base mb-2 text-center uppercase">Taro Milk Tea</div>
                 <p className="text-stone-500 text-base text-center font-light text-base">
-                    Black milk tea made with non-dairy creamer, sweetened and drizzled with caramelized brown sugar.
+                    Slightly floral and bitter green milk tea paired with taro.
                 </p>
                 <p className="text-gray-700 text-base text-center p-4">
                     $6.25
@@ -91,15 +91,15 @@ export default function Tiles() {
             </div>
             <div className="max-w-sm rounded overflow-hidden shadow-lg">
             <Image
-                src="/images/drinks/bs-mt.webp"
+                src="/images/drinks/wintermelon-mt.webp"
                 width={234}
                 height={234}
                 className="w-full"
-                alt="Brown Sugar Milk Tea"/>
-            <div className="px-3 py-7 bg-orange-100">
-                <div className="font-black text-base mb-2 text-center uppercase">Brown Sugar Milk Tea</div>
+                alt="Wintermelon Milk Tea"/>
+            <div className="px-3 py-10 bg-orange-100">
+                <div className="font-black text-base mb-2 text-center uppercase">Wintermelon Milk Tea</div>
                 <p className="text-stone-500 text-base text-center font-light text-base">
-                    Black milk tea made with non-dairy creamer, sweetened and drizzled with caramelized brown sugar.
+                    Caramel-like flavor of wintermelon makes a sweet milk tea.
                 </p>
                 <p className="text-gray-700 text-base text-center p-4">
                     $6.25
@@ -108,15 +108,15 @@ export default function Tiles() {
             </div>
             <div className="max-w-sm rounded overflow-hidden shadow-lg">
             <Image
-                src="/images/drinks/bs-mt.webp"
+                src="/images/drinks/honeydew-mt.webp"
                 width={234}
                 height={234}
                 className="w-full"
-                alt="Brown Sugar Milk Tea"/>
-            <div className="px-3 py-7 bg-orange-100">
-                <div className="font-black text-base mb-2 text-center uppercase">Brown Sugar Milk Tea</div>
+                alt="Honeydew Milk Tea"/>
+            <div className="px-3 py-13 bg-orange-100">
+                <div className="font-black text-base mb-2 text-center uppercase">Honeydew Milk Tea</div>
                 <p className="text-stone-500 text-base text-center font-light text-base">
-                    Black milk tea made with non-dairy creamer, sweetened and drizzled with caramelized brown sugar.
+                    Green milk tea with honeydew.
                 </p>
                 <p className="text-gray-700 text-base text-center p-4">
                     $6.25
@@ -125,15 +125,15 @@ export default function Tiles() {
             </div>
             <div className="max-w-sm rounded overflow-hidden shadow-lg">
             <Image
-                src="/images/drinks/bs-mt.webp"
+                src="/images/drinks/rose-mt.webp"
                 width={234}
                 height={234}
                 className="w-full"
-                alt="Brown Sugar Milk Tea"/>
-            <div className="px-3 py-7 bg-orange-100">
-                <div className="font-black text-base mb-2 text-center uppercase">Brown Sugar Milk Tea</div>
+                alt="Rose Milk Tea"/>
+            <div className="px-3 py-13 bg-orange-100">
+                <div className="font-black text-base mb-2 text-center uppercase">Rose Milk Tea</div>
                 <p className="text-stone-500 text-base text-center font-light text-base">
-                    Black milk tea made with non-dairy creamer, sweetened and drizzled with caramelized brown sugar.
+                    Strong floral milk tea complimented with rose.
                 </p>
                 <p className="text-gray-700 text-base text-center p-4">
                     $6.25
@@ -142,15 +142,15 @@ export default function Tiles() {
             </div>
             <div className="max-w-sm rounded overflow-hidden shadow-lg">
             <Image
-                src="/images/drinks/bs-mt.webp"
+                src="/images/drinks/tea-float.webp"
                 width={234}
                 height={234}
                 className="w-full"
-                alt="Brown Sugar Milk Tea"/>
-            <div className="px-3 py-7 bg-orange-100">
-                <div className="font-black text-base mb-2 text-center uppercase">Brown Sugar Milk Tea</div>
+                alt="Tea Float"/>
+            <div className="px-3 py-10 bg-orange-100">
+                <div className="font-black text-base mb-2 text-center uppercase">Tea Float</div>
                 <p className="text-stone-500 text-base text-center font-light text-base">
-                    Black milk tea made with non-dairy creamer, sweetened and drizzled with caramelized brown sugar.
+                    Ice cream mixed with strong tea makes an extra tasty milk tea.
                 </p>
                 <p className="text-gray-700 text-base text-center p-4">
                     $6.25
@@ -159,15 +159,15 @@ export default function Tiles() {
             </div>
             <div className="max-w-sm rounded overflow-hidden shadow-lg">
             <Image
-                src="/images/drinks/bs-mt.webp"
+                src="/images/drinks/thai-mt.webp"
                 width={234}
                 height={234}
                 className="w-full"
-                alt="Brown Sugar Milk Tea"/>
+                alt="Thai Milk Tea"/>
             <div className="px-3 py-7 bg-orange-100">
-                <div className="font-black text-base mb-2 text-center uppercase">Brown Sugar Milk Tea</div>
+                <div className="font-black text-base mb-2 text-center uppercase">Thai Milk Tea</div>
                 <p className="text-stone-500 text-base text-center font-light text-base">
-                    Black milk tea made with non-dairy creamer, sweetened and drizzled with caramelized brown sugar.
+                    Our stronly-brewed Thai milk tea mixed with our non-dairy house milk is a classic favorite.
                 </p>
                 <p className="text-gray-700 text-base text-center p-4">
                     $6.25
