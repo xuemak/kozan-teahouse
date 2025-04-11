@@ -11,7 +11,7 @@ export default function Tiles() {
                 height={234}
                 className="w-full"
                 alt="Brown Sugar Milk Tea"/>
-            <div className="px-3 pb-8 pt-4 bg-orange-100">
+            <div className="px-3 pb-4 pt-4 bg-orange-100">
                 <div className="font-black text-base mb-2 text-center uppercase">Brown Sugar Milk Tea</div>
                 <p className="text-stone-500 text-base text-center font-light text-base p-2 w-50 h-30">
                     Black milk tea made with non-dairy creamer, sweetened and drizzled with caramelized brown sugar.
@@ -28,7 +28,7 @@ export default function Tiles() {
                 height={234}
                 className="w-full"
                 alt="Classic Milk Tea"/>
-            <div className="px-3 pb-8 pt-4 bg-orange-100">
+            <div className="px-3 pb-4 pt-4 bg-orange-100">
                 <div className="font-black text-base mb-2 text-center uppercase">Classic Milk Tea</div>
                 <p className="text-stone-500 text-base text-center font-light text-base p-2 w-50 h-30">
                     Plain and simple black milk tea made with non-dairy creamer.
@@ -45,7 +45,7 @@ export default function Tiles() {
                 height={234}
                 className="w-full"
                 alt="Jasmine Milk Tea"/>
-            <div className="px-3 pb-8 pt-4 bg-orange-100">
+            <div className="px-3 pb-4 pt-4 bg-orange-100">
                 <div className="font-black text-base mb-2 text-center uppercase">Jasmine Milk Tea</div>
                 <p className="text-stone-500 text-base text-center font-light text-base p-2 w-50 h-30">
                     Green tea brewed with a slightly floral aroma made with our non-dairy creamer house milk.
@@ -62,7 +62,7 @@ export default function Tiles() {
                 height={234}
                 className="w-full"
                 alt="Thai Kick"/>
-            <div className="px-3 pb-8 pt-4 bg-orange-100">
+            <div className="px-3 pb-4 pt-4 bg-orange-100">
                 <div className="font-black text-base mb-2 text-center uppercase">Thai Kick</div>
                 <p className="text-stone-500 text-base text-center font-light text-base p-2 w-50 h-30">
                     Thai milk tea with a hint of cold brew coffee.
