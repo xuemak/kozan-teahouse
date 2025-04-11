@@ -11,10 +11,13 @@ export default function Tiles() {
                 height={234}
                 className="w-full"
                 alt="Brown Sugar Milk Tea"/>
-            <div className="px-6 py-4">
-                <div className="font-bold text-l mb-2 flex items-center justify-center">Brown Sugar Milk Tea</div>
-                <p className="text-gray-700 text-base">
+            <div className="px-3 py-7 bg-orange-100">
+                <div className="font-black text-base mb-2 text-center uppercase">Brown Sugar Milk Tea</div>
+                <p className="text-stone-500 text-base text-center font-light text-base">
                     Black milk tea made with non-dairy creamer, sweetened and drizzled with caramelized brown sugar.
+                </p>
+                <p className="text-gray-700 text-base text-center p-4">
+                    $6.25
                 </p>
             </div>
             </div>
