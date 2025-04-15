@@ -1,7 +1,14 @@
 import React from "react";
 import Image from "next/image"
 
-export default function BobaTile({ drinkName, imageUrl, price, description }) {
+interface BobaTileProps {
+    drinkName: string;
+    imageUrl: string;
+    price: number;
+    description: string;
+}
+
+export default function BobaTile({ drinkName, imageUrl, price, description }: BobaTileProps) {
     return (
         <div className="max-w-sm rounded overflow-hidden shadow-lg">
             {imageUrl && (
