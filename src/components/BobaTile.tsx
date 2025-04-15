@@ -1,15 +1,19 @@
 import React from "react";
+import Image from "next/image"
 
 export default function BobaTile({ drinkName, imageUrl, price, description }) {
     return (
-        <div className="bobatile">
-            <Image
-                src={imageUrl}
-                width={234}
-                height={234}
-                className="w-full"
-                alt={drinkName}
-            />
+        <div className="max-w-sm rounded overflow-hidden shadow-lg">
+            {imageUrl && (
+                <Image
+                    src={imageUrl}
+                    width={234}
+                    height={234}
+                    className="w-full"
+                    alt={drinkName}
+                />
+            )
+            }
             <div className="px-3 pb-4 pt-4 bg-orange-100">
                 <div className="font-black text-base mb-2 text-center uppercase">{drinkName}</div>
                 <p className="text-stone-500 text-base text-center font-light text-base p-2 w-50 h-30">
