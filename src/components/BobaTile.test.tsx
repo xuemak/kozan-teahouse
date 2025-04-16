@@ -1,4 +1,3 @@
-import React from 'react';
 import BobaTile from "./BobaTile";
 import { render, screen } from "@testing-library/react";
 import '@testing-library/jest-dom';
