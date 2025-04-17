@@ -4,18 +4,37 @@ import '@testing-library/jest-dom';
 
 const mockProps = {
   drinkName: 'Brown Sugar Milk Tea',
-  imageUrl: './public/images/drinks/bs-mt.webp',
+  imageUrl: '/images/drinks/bs-mt.webp',
   price: 6.25,
   description:
     'Black milk tea made with non-dairy creamer, sweetened and drizzled with caramelized brown sugar.',
 };
 
 describe(BobaTile, () => {
-  it('renders drink image, drink name, drink description, and drink price', () => {
+  it('renders drink name', () => {
     render(<BobaTile {...mockProps} />);
     expect(screen.getByText(mockProps.drinkName)).toBeInTheDocument();
-    expect(screen.getByText(mockProps.description)).toBeInTheDocument();
+  });
+});
+
+describe(BobaTile, () => {
+  it('renders drink image with correct image source and drink name as alt attribute', () => {
+    render(<BobaTile {...mockProps} />);
+    const drinkImage = screen.getByAltText(mockProps.drinkName);
+    expect(drinkImage).toHaveAttribute('src', mockProps.imageUrl);
+  });
+});
+
+describe(BobaTile, () => {
+  it('renders drink price', () => {
+    render(<BobaTile {...mockProps} />);
     expect(screen.getByText(mockProps.price.toString())).toBeInTheDocument();
-    expect(screen.getByAltText(mockProps.drinkName)).toBeInTheDocument();
+  });
+});
+
+describe(BobaTile, () => {
+  it('renders drink description', () => {
+    render(<BobaTile {...mockProps} />);
+    expect(screen.getByText(mockProps.description)).toBeInTheDocument();
   });
 });
