@@ -25,7 +25,7 @@ export default function Tiles() {
     <div>
       {bobaDrinks.sections.map((section) => (
         <div key={section.sectionName}>
-          <h2>{section.sectionName}</h2>
+          <h1>{section.sectionName}</h1>
           <div className="grid grid-cols-4 gap-6 p-50">
             {section.drinkItems.map((drink) => (
               <BobaTile
