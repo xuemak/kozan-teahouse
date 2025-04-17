@@ -5,61 +5,61 @@
       "drinkItems": [
         {
           "drinkName": "Brown Sugar Milk Tea",
-          "imageUrl": "./public/images/drinks/bs-mt.webp",
+          "imageUrl": "/images/drinks/bs-mt.webp",
           "price": 6.25,
           "description": "Black milk tea made with non-dairy creamer, sweetened and drizzled with caramelized brown sugar."
         },
         {
           "drinkName": "Classic Milk Tea",
-          "imageUrl": "./public/images/drinks/classic-mt.webp",
+          "imageUrl": "/images/drinks/classic-mt.webp",
           "price": 6.25,
           "description": "Plain and simple black milk tea made with non-dairy creamer."
         },
         {
           "drinkName": "Jasmine Milk Tea",
-          "imageUrl": "./public/images/drinks/jasmine-mt.webp",
+          "imageUrl": "/images/drinks/jasmine-mt.webp",
           "price": 6.25,
           "description": "Green tea brewed with a slightly floral aroma made with our non-dairy creamer house milk."
         },
         {
           "drinkName": "Thai Kick",
-          "imageUrl": "./public/images/drinks/thai-kick.webp",
+          "imageUrl": "/images/drinks/thai-kick.webp",
           "price": 6.25,
           "description": "Thai milk tea with a hint of cold brew coffee."
         },
         {
           "drinkName": "Taro Milk Tea",
-          "imageUrl": "./public/images/drinks/taro-mt.webp",
+          "imageUrl": "/images/drinks/taro-mt.webp",
           "price": 6.25,
           "description": "Slightly floral and bitter green milk tea paired with taro."
         },
         {
           "drinkName": "Wintermelon Milk Tea",
-          "imageUrl": "./public/images/drinks/wintermelon-mt.webp",
+          "imageUrl": "/images/drinks/wintermelon-mt.webp",
           "price": 6.25,
           "description": "Caramel-like flavor of wintermelon makes a sweet milk tea."
         },
         {
           "drinkName": "Honeydew Milk Tea",
-          "imageUrl": "./public/images/drinks/honeydew-mt.webp",
+          "imageUrl": "/images/drinks/honeydew-mt.webp",
           "price": 6.25,
           "description": "Green milk tea with honeydew."
         },
         {
           "drinkName": "Rose Milk Tea",
-          "imageUrl": "./public/images/drinks/rose-mt.webp",
+          "imageUrl": "/images/drinks/rose-mt.webp",
           "price": 6.25,
           "description": "Strong floral milk tea complimented with rose."
         },
         {
           "drinkName": "Tea Float",
-          "imageUrl": "./public/images/drinks/tea-float.webp",
+          "imageUrl": "/images/drinks/tea-float.webp",
           "price": 6.25,
           "description": "Ice cream mixed with strong tea makes an extra tasty milk tea."
         },
         {
           "drinkName": "Thai Milk Tea",
-          "imageUrl": "./public/images/drinks/thai-mt.webp",
+          "imageUrl": "/images/drinks/thai-mt.webp",
           "price": 6.25,
           "description": "Our strongly-brewed Thai milk tea mixed with our non-dairy house milk is a classic favorite."
         }
@@ -70,133 +70,133 @@
       "drinkItems": [
         {
           "drinkName": "Taro Wave",
-          "imageUrl": "./public/images/drinks/taro-wave.webp",
+          "imageUrl": "/images/drinks/taro-wave.webp",
           "price": 6.65,
           "description": "Best-selling taro coconut milkshake served with a light swirl of sweet ube yam."
         },
         {
           "drinkName": "Classic Taro Milkshake",
-          "imageUrl": "./public/images/drinks/taro-mt.webp",
+          "imageUrl": "/images/drinks/taro-mt.webp",
           "price": 6.65,
           "description": "Taro shake with a hint of coconut."
         },
         {
           "drinkName": "Brown Sugar Milk Tea",
-          "imageUrl": "./public/images/drinks/bs-mt.webp",
+          "imageUrl": "/images/drinks/bs-mt.webp",
           "price": 6.65,
           "description": "Mouthwatering combination of creamy cookie butter anda hint of coffee."
         },
         {
           "drinkName": "Black Sesame Shake",
-          "imageUrl": "./public/images/drinks/black-sesame-shake.webp",
+          "imageUrl": "/images/drinks/black-sesame-shake.webp",
           "price": 6.65,
           "description": "Delicious nut-like flavored shake that is rich in nutrients, containing 8g of fiber and 12g of protein."
         },
         {
           "drinkName": "Peaches and Cream",
-          "imageUrl": "./public/images/drinks/peach-cream-shake.webp",
+          "imageUrl": "/images/drinks/peach-cream-shake.webp",
           "price": 6.65,
           "description": "Sweet shake that tastes like a summery peach creamsicle."
         },
         {
           "drinkName": "Matcha Shake",
-          "imageUrl": "./public/images/drinks/matcha-shake.webp",
+          "imageUrl": "/images/drinks/matcha-shake.webp",
           "price": 7.25,
           "description": "Milkshake made with premium-grade organic matcha, ice cream, and your choice of milk."
         },
         {
           "drinkName": "Oreo Milkshake",
-          "imageUrl": "./public/images/drinks/oreo-shake.webp",
+          "imageUrl": "/images/drinks/oreo-shake.webp",
           "price": 6.65,
           "description": "Creamy vanilla milkshake blended with Oreo bits."
         },
         {
           "drinkName": "Brown Sugar Frosty",
-          "imageUrl": "./public/images/drinks/bs-frosty.webp",
+          "imageUrl": "/images/drinks/bs-frosty.webp",
           "price": 6.65,
           "description": "Milk frosty drizzled with caramelized brown sugar."
         },
         {
           "drinkName": "Miss Lychee",
-          "imageUrl": "./public/images/drinks/miss-lychee.webp",
+          "imageUrl": "/images/drinks/miss-lychee.webp",
           "price": 6.0,
           "description": "Refreshing lychee slushy with a hint of fresh lemon and strawberry."
         },
         {
           "drinkName": "Honeydew Shake",
-          "imageUrl": "./public/images/drinks/honeydew-shake.webp",
+          "imageUrl": "/images/drinks/honeydew-shake.webp",
           "price": 6.65,
           "description": "Sweet milkshake complimented with honeydew."
         },
         {
           "drinkName": "Mango Wave",
-          "imageUrl": "./public/images/drinks/mango-wave.webp",
+          "imageUrl": "/images/drinks/mango-wave.webp",
           "price": 6.65,
           "description": "Dessert-like creamy mango milkshake with a hint of coconut."
         },
         {
           "drinkName": "Mango Cloud",
-          "imageUrl": "./public/images/drinks/mango-cloud.webp",
+          "imageUrl": "/images/drinks/mango-cloud.webp",
           "price": 6.65,
           "description": "Mango slushy with cream cheese foam."
         },
         {
           "drinkName": "Strawberry Shake",
-          "imageUrl": "./public/images/drinks/sb-shake.webp",
+          "imageUrl": "/images/drinks/sb-shake.webp",
           "price": 6.5,
           "description": "Tarty and sweet milkshake made with fresh strawberries."
         },
         {
           "drinkName": "Strawnana Smoothie",
-          "imageUrl": "./public/images/drinks/sb-banana-smoothie.webp",
+          "imageUrl": "/images/drinks/sb-banana-smoothie.webp",
           "price": 6.65,
           "description": "Fresh smoothie made with fresh strawberries and a whole banana."
         },
         {
           "drinkName": "Strawberry Funfetti",
-          "imageUrl": "./public/images/drinks/sb-funfetti.webp",
+          "imageUrl": "/images/drinks/sb-funfetti.webp",
           "price": 6.65,
           "description": "Fresh strawberry milkshake sprinkled and topped with a scoop of vanilla ice cream."
         },
         {
           "drinkName": "Strawberry Cloud",
-          "imageUrl": "./public/images/drinks/sb-cloud.webp",
+          "imageUrl": "/images/drinks/sb-cloud.webp",
           "price": 7.5,
           "description": "Fresh strawberry slushy layered with cream foam."
         },
         {
           "drinkName": "Strawberry Oreo Shake",
-          "imageUrl": "./public/images/drinks/sb-oreo-shake.webp",
+          "imageUrl": "/images/drinks/sb-oreo-shake.webp",
           "price": 6.65,
           "description": "Fresh strawberry milkshake blended with oreo bits."
         },
         {
           "drinkName": "Banana Nola",
-          "imageUrl": "./public/images/drinks/banana-nola.webp",
+          "imageUrl": "/images/drinks/banana-nola.webp",
           "price": 6.65,
           "description": "Fresh smoothie made with a whole banana, a hint of cinnamon, and caramel drizzles, topped with honey almond granola."
         },
         {
           "drinkName": "Milk Tea Shake",
-          "imageUrl": "./public/images/drinks/mt-shake.webp",
+          "imageUrl": "/images/drinks/mt-shake.webp",
           "price": 6.65,
           "description": "Black milk tea shake, ice cream, and caramelized brown sugar drizzles."
         },
         {
           "drinkName": "Thai Shake",
-          "imageUrl": "./public/images/drinks/thai-shake.webp",
+          "imageUrl": "/images/drinks/thai-shake.webp",
           "price": 6.65,
           "description": "Thai tea milkshake with caramelized brown sugar."
         },
         {
           "drinkName": "Spooky Thai",
-          "imageUrl": "./public/images/drinks/thai-spooky.webp",
+          "imageUrl": "/images/drinks/thai-spooky.webp",
           "price": 6.65,
           "description": "Thai milkshake, crushed Oreos, and caramelized brown sugar drizzles."
         },
         {
           "drinkName": "Cocoa Dream",
-          "imageUrl": "./public/images/drinks/cocoa-dream.webp",
+          "imageUrl": "/images/drinks/cocoa-dream.webp",
           "price": 6.65,
           "description": "A luscious cocoa shake swirled with milk goodness, crowned with cocoa pebbles for that extra crunch."
         }
@@ -207,97 +207,97 @@
       "drinkItems": [
         {
           "drinkName": "Watermelon Kiwi",
-          "imageUrl": "./public/images/drinks/wm-kiwi.webp",
+          "imageUrl": "/images/drinks/wm-kiwi.webp",
           "price": 6.45,
           "description": "100% real watermelon juice mixed with fresh kiwi bits."
         },
         {
           "drinkName": "Fresh Tea",
-          "imageUrl": "./public/images/drinks/tea.webp",
+          "imageUrl": "/images/drinks/tea.webp",
           "price": 4.5,
           "description": "Your choice of plain brewed tea of green tea, black tea, or roasted oolong tea."
         },
         {
           "drinkName": "Summer Peach Tea",
-          "imageUrl": "./public/images/drinks/sum-peach.webp",
+          "imageUrl": "/images/drinks/sum-peach.webp",
           "price": 5.0,
           "description": "Refreshing peach tea with a splash of orange."
         },
         {
           "drinkName": "Strawberry Tea",
-          "imageUrl": "./public/images/drinks/sb-tea.webp",
+          "imageUrl": "/images/drinks/sb-tea.webp",
           "price": 5.25,
           "description": "Fresh fruit tea made with real strawverry puree."
         },
         {
           "drinkName": "Mango Tea",
-          "imageUrl": "./public/images/drinks/mango-tea.webp",
+          "imageUrl": "/images/drinks/mango-tea.webp",
           "price": 5.0,
           "description": "Refreshing mango tea mixed with house-made mango puree."
         },
         {
           "drinkName": "Tropical Breeze",
-          "imageUrl": "./public/images/drinks/trop-breeze.webp",
+          "imageUrl": "/images/drinks/trop-breeze.webp",
           "price": 5.0,
           "description": "A mixture of mango and passion fruit makes tropical sweet and tarty refresher."
         },
         {
           "drinkName": "Passionfruit Tea",
-          "imageUrl": "./public/images/drinks/pf-tea.webp",
+          "imageUrl": "/images/drinks/pf-tea.webp",
           "price": 5.0,
           "description": "Pleasantly sweet and tarty cousin of citrus."
         },
         {
           "drinkName": "Watermelon Tea",
-          "imageUrl": "./public/images/drinks/wm-tea.webp",
+          "imageUrl": "/images/drinks/wm-tea.webp",
           "price": 5.45,
           "description": "Watermelon tea made with real fruit juiced in-house."
         },
         {
           "drinkName": "Lemon Tea",
-          "imageUrl": "./public/images/drinks/lemon-tea.webp",
+          "imageUrl": "/images/drinks/lemon-tea.webp",
           "price": 5.0,
           "description": "House-brewed tea with a splash of pressed lemon juice."
         },
         {
           "drinkName": "Watermelon Cooler",
-          "imageUrl": "./public/images/drinks/wm-cooler.webp",
+          "imageUrl": "/images/drinks/wm-cooler.webp",
           "price": 6.45,
           "description": "Pure watermelon slushy made with fruit cut and juiced in-house."
         },
         {
           "drinkName": "Pineapple Colada",
-          "imageUrl": "./public/images/drinks/pina-colada.webp",
+          "imageUrl": "/images/drinks/pina-colada.webp",
           "price": 5.65,
           "description": "Pineapple slushy with a hint of coconut made with your choice of milk."
         },
         {
           "drinkName": "Mango Cooler",
-          "imageUrl": "./public/images/drinks/mango-cooler.webp",
+          "imageUrl": "/images/drinks/mango-cooler.webp",
           "price": 5.65,
           "description": "Ice-blended mango slushy made with mango puree."
         },
         {
           "drinkName": "Strawberry Cooler",
-          "imageUrl": "./public/images/drinks/sb-cooler.webp",
+          "imageUrl": "/images/drinks/sb-cooler.webp",
           "price": 6.5,
           "description": "Fruit slushy made with fresh strawberries."
         },
         {
           "drinkName": "Wintermelon Lemon Tea",
-          "imageUrl": "./public/images/drinks/wintermelon-lemon-tea.webp",
+          "imageUrl": "/images/drinks/wintermelon-lemon-tea.webp",
           "price": 5.0,
           "description": "Refreshing sweet tea with a hint of fresh lemon juice."
         },
         {
           "drinkName": "Super Kiwi Tea",
-          "imageUrl": "./public/images/drinks/super-kiwi-tea.webp",
+          "imageUrl": "/images/drinks/super-kiwi-tea.webp",
           "price": 6.25,
           "description": "Real kiwi green tea with a hint of peach, orange, and lemon."
         },
         {
           "drinkName": "Lychee Tea",
-          "imageUrl": "./public/images/drinks/lychee-tea.webp",
+          "imageUrl": "/images/drinks/lychee-tea.webp",
           "price": 5.0,
           "description": "Naturally sweet lychee with a floral aroma."
         }
@@ -308,25 +308,25 @@
       "drinkItems": [
         {
           "drinkName": "Coffee Oreo Twist",
-          "imageUrl": "./public/images/drinks/coffee-ob.webp",
+          "imageUrl": "/images/drinks/coffee-ob.webp",
           "price": 6.0,
           "description": "Colombian house coffee, crushed Oreos, swirls of caramel brûlée cream (reducing the sweetness level is recommended)."
         },
         {
           "drinkName": "Oreo Milk Twist",
-          "imageUrl": "./public/images/drinks/oreo-twist.webp",
+          "imageUrl": "/images/drinks/oreo-twist.webp",
           "price": 6.0,
           "description": "Sweet and creamy milk mixed with Oreos and brûlée cream."
         },
         {
           "drinkName": "Matcha Oreo Twist",
-          "imageUrl": "./public/images/drinks/matcha-ob.webp",
+          "imageUrl": "/images/drinks/matcha-ob.webp",
           "price": 7.25,
           "description": "Premium matcha milk tea, crushed Oreos, sweet caramel brûlée (reducing the sweetness level is recommended)."
         },
         {
           "drinkName": "Thai Oreo Twist",
-          "imageUrl": "./public/images/drinks/thai-ob.webp",
+          "imageUrl": "/images/drinks/thai-ob.webp",
           "price": 6.5,
           "description": "Thai milk tea, crushed oreos, swirls of caramel brûlée cream."
         }
@@ -337,43 +337,43 @@
       "drinkItems": [
         {
           "drinkName": "Matcha Creme",
-          "imageUrl": "./public/images/drinks/matcha-creme.webp",
+          "imageUrl": "/images/drinks/matcha-creme.webp",
           "price": 7.0,
           "description": "Premium-grade matcha milk tea topped with cream cheese foam."
         },
         {
           "drinkName": "Strawberry Matcha",
-          "imageUrl": "./public/images/drinks/matcha-sb.webp",
+          "imageUrl": "/images/drinks/matcha-sb.webp",
           "price": 6.45,
           "description": "Real strawberry milk topped with premium-grade matcha green tea."
         },
         {
           "drinkName": "Mango Matcha",
-          "imageUrl": "./public/images/drinks/matcha-mango.webp",
+          "imageUrl": "/images/drinks/matcha-mango.webp",
           "price": 6.45,
           "description": "A slightly bitter and tarty combinatoin of mango milk and Japanese matcha green tea."
         },
         {
           "drinkName": "Dirty Matcha",
-          "imageUrl": "./public/images/drinks/matcha-dirty.webp",
+          "imageUrl": "/images/drinks/matcha-dirty.webp",
           "price": 6.45,
           "description": "Premium matcha milk tea, splash of cold brew coffee, caramelized brown sugar drizzles."
         },
         {
           "drinkName": "Matcha Shake",
-          "imageUrl": "./public/images/drinks/matcha-shake.webp",
+          "imageUrl": "/images/drinks/matcha-shake.webp",
           "price": 7.25,
           "description": "Milkshake made with premium-grade organic matcha, ice cream, and your choice of milk."
         },
         {
           "drinkName": "Matcha Oreo Twist",
-          "imageUrl": "./public/images/drinks/matcha-ob.webp",
+          "imageUrl": "/images/drinks/matcha-ob.webp",
           "price": 7.25,
           "description": "Premium matcha milk tea, crushed Oreos, sweet caramel brûlée (reducing the sweetness level is recommended)."
         },
         {
           "drinkName": "Matcha Milk Tea",
-          "imageUrl": "./public/images/drinks/matcha-mt.webp",
+          "imageUrl": "/images/drinks/matcha-mt.webp",
           "price": 6.45,
           "description": "Organic premium-grade matcha made with your choice of milk."
         }
@@ -384,37 +384,37 @@
       "drinkItems": [
         {
           "drinkName": "House Coffee Creme",
-          "imageUrl": "./public/images/drinks/coffee-creme.webp",
+          "imageUrl": "/images/drinks/coffee-creme.webp",
           "price": 5.5,
           "description": "Dark roasted, Colombian house coffee topped with cream cheese foam."
         },
         {
           "drinkName": "Thai Kick",
-          "imageUrl": "./public/images/drinks/thai-kick.webp",
+          "imageUrl": "/images/drinks/thai-kick.webp",
           "price": 6.25,
           "description": "Thai milk tea with a hint of cold brew coffee."
         },
         {
           "drinkName": "Dirty Matcha",
-          "imageUrl": "./public/images/drinks/matcha-dirty.webp",
+          "imageUrl": "/images/drinks/matcha-dirty.webp",
           "price": 6.45,
           "description": "Premium matcha milk tea, splash of cold brew coffee, caramelized brown sugar drizzles."
         },
         {
           "drinkName": "Coffee Oreo Twist",
-          "imageUrl": "./public/images/drinks/coffee-ob.webp",
+          "imageUrl": "/images/drinks/coffee-ob.webp",
           "price": 6.0,
           "description": "Colombian house coffee, crushed Oreos, swirls of caramel brûlée cream (reducing the sweetness level is recommended)."
         },
         {
           "drinkName": "Cookie Joe",
-          "imageUrl": "./public/images/drinks/cookie-joe.webp",
+          "imageUrl": "/images/drinks/cookie-joe.webp",
           "price": 6.65,
           "description": "Mouthwatering combination of creamy cookie butter anda hint of coffee."
         },
         {
           "drinkName": "House Coffee",
-          "imageUrl": "./public/images/drinks/coffee-house.webp",
+          "imageUrl": "/images/drinks/coffee-house.webp",
           "price": 5.0,
           "description": "Dark Colombian cold brew coffee made with a hint of vanilla, caramel, or hazlenut flavor and your choice of milk."
         }
@@ -425,37 +425,37 @@
       "drinkItems": [
         {
           "drinkName": "Strawberry Bliss",
-          "imageUrl": "./public/images/drinks/sb-bliss.webp",
+          "imageUrl": "/images/drinks/sb-bliss.webp",
           "price": 5.5,
           "description": "A delicious, sweet strawberry milk made with real fruit puree."
         },
         {
           "drinkName": "Mango Bliss",
-          "imageUrl": "./public/images/drinks/mango-bliss.webp",
+          "imageUrl": "/images/drinks/mango-bliss.webp",
           "price": 5.0,
           "description": "Mango milk is made with sweet mango puree."
         },
         {
           "drinkName": "Wintermelon Fresh Milk",
-          "imageUrl": "./public/images/drinks/wintermelon-milk.webp",
+          "imageUrl": "/images/drinks/wintermelon-milk.webp",
           "price": 5.0,
           "description": "Creamy, caramel-like flavored wintermelon makes a taste non-caffeinated alternative to our Wintermelon Milk Tea."
         },
         {
           "drinkName": "Watermelon Bliss",
-          "imageUrl": "./public/images/drinks/wm-bliss.webp",
+          "imageUrl": "/images/drinks/wm-bliss.webp",
           "price": 5.0,
           "description": "Fresh watermelon juice mixed with a splash of oat milk makes a fresh watermelon delight."
         },
         {
           "drinkName": "Chocolate Rain",
-          "imageUrl": "./public/images/drinks/cocoa-rain.webp",
+          "imageUrl": "/images/drinks/cocoa-rain.webp",
           "price": 5.0,
           "description": "Iced version of a creamy hot chocolate made with premium cocoa."
         },
         {
           "drinkName": "Oreo Milk Twist",
-          "imageUrl": "./public/images/drinks/oreo-twist.webp",
+          "imageUrl": "/images/drinks/oreo-twist.webp",
           "price": 6.0,
           "description": "Sweet and creamy milk mixed with Oreos and brûlée cream."
         }
@@ -466,49 +466,49 @@
       "drinkItems": [
         {
           "drinkName": "Cocoa Creme",
-          "imageUrl": "./public/images/drinks/cocoa-creme.webp",
+          "imageUrl": "/images/drinks/cocoa-creme.webp",
           "price": 5.5,
           "description": "Decadent, creamy cocoa milk topped with cream cheese foam."
         },
         {
           "drinkName": "Green Tea Creme",
-          "imageUrl": "./public/images/drinks/gt-creme.webp",
+          "imageUrl": "/images/drinks/gt-creme.webp",
           "price": 5.25,
           "description": "Freshly brewed jasmine green tea topped with cream cheese foam."
         },
         {
           "drinkName": "Black Tea Creme",
-          "imageUrl": "./public/images/drinks/bt-creme.webp",
+          "imageUrl": "/images/drinks/bt-creme.webp",
           "price": 4.75,
           "description": "Fresh black tea topped with cream cheese foam."
         },
         {
           "drinkName": "Mango Tea Creme",
-          "imageUrl": "./public/images/drinks/mango-tea-creme.webp",
+          "imageUrl": "/images/drinks/mango-tea-creme.webp",
           "price": 5.35,
           "description": "Mango tea topped with cream cheese foam."
         },
         {
           "drinkName": "Matcha Creme",
-          "imageUrl": "./public/images/drinks/matcha-creme.webp",
+          "imageUrl": "/images/drinks/matcha-creme.webp",
           "price": 7.0,
           "description": "Premium-grade matcha milk tea topped with cream cheese foam."
         },
         {
           "drinkName": "Wintermelon Milk Tea Creme",
-          "imageUrl": "./public/images/drinks/wintermelon-mt-creme.webp",
+          "imageUrl": "/images/drinks/wintermelon-mt-creme.webp",
           "price": 6.75,
           "description": "Milk tea complement with the sweet, caramel-like flavored of wintermelon, topped with cream cheese foam."
         },
         {
           "drinkName": "Tea Float Creme",
-          "imageUrl": "./public/images/drinks/tea-float-creme.webp",
+          "imageUrl": "/images/drinks/tea-float-creme.webp",
           "price": 5.35,
           "description": "Fresh tea mixed with vanilla ice cream and topped with cream cheese foam."
         },
         {
           "drinkName": "House Coffee Creme",
-          "imageUrl": "./public/images/drinks/coffee-creme.webp",
+          "imageUrl": "/images/drinks/coffee-creme.webp",
           "price": 5.5,
           "description": "Dark roasted, Colombian house coffee topped with cream cheese foam."
         }
