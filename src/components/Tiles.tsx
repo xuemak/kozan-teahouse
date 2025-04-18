@@ -1,6 +1,6 @@
 import React from 'react';
 import BobaTile from './BobaTile';
-import bobaMenuData from '../data/bobaMenu.json';
+import bobaMenuJson from '../data/bobaMenu.json';
 
 interface DrinkItem {
   drinkName: string;
@@ -14,13 +14,13 @@ interface MenuSection {
   drinkItems: DrinkItem[];
 }
 
-interface BobaMenuData {
+interface BobaMenuStructure {
   sections: MenuSection[];
 }
 
-const bobaDrinks: BobaMenuData = bobaMenuData as BobaMenuData;
+const bobaDrinks: BobaMenuStructure = bobaMenuJson as BobaMenuStructure;
 
-export default function Tiles() {
+export default function BobaTilesContainer() {
   return (
     <div>
       {bobaDrinks.sections.map((section) => (
