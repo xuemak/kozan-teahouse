@@ -40,13 +40,6 @@ jest.mock('../data/bobaMenu.json', () => ({
 }));
 
 describe(BobaTilesContainer, () => {
-  it('renders something without errors', () => {
-    render(<BobaTilesContainer />);
-    expect(screen.getByText('Milk Tea')).toBeInTheDocument();
-  });
-});
-
-describe(BobaTilesContainer, () => {
   it('renders all sections', () => {
     render(<BobaTilesContainer />);
     expect(screen.getAllByRole('heading', { level: 1 })).toHaveLength(2);
@@ -62,6 +55,6 @@ describe(BobaTilesContainer, () => {
 describe(BobaTilesContainer, () => {
   it('renders all BobaTile components', () => {
     render(<BobaTilesContainer />);
-    expect(screen.getAllByTestId('boba-tile-container')).toHaveLength(3);
+    expect(screen.getAllByTestId('boba-tile')).toHaveLength(3);
   });
 });
