@@ -47,7 +47,7 @@ describe(BobaTilesContainer, () => {
 });
 
 describe(BobaTilesContainer, () => {
-  it('renders correct number of sections', () => {
+  it('renders all sections', () => {
     render(<BobaTilesContainer />);
     expect(screen.getAllByRole('heading', { level: 1 })).toHaveLength(2);
     expect(screen.getAllByRole('heading', { level: 1 })[0]).toHaveTextContent(
@@ -56,5 +56,12 @@ describe(BobaTilesContainer, () => {
     expect(screen.getAllByRole('heading', { level: 1 })[1]).toHaveTextContent(
       'Shakes'
     );
+  });
+});
+
+describe(BobaTilesContainer, () => {
+  it('renders all BobaTile components', () => {
+    render(<BobaTilesContainer />);
+    expect(screen.getAllByTestId('boba-tile-container')).toHaveLength(3);
   });
 });
