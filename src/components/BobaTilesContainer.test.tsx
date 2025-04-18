@@ -39,3 +39,10 @@ jest.mock('../data/bobaMenu.json', () => ({
     },
   ],
 }));
+
+describe(BobaTilesContainer, () => {
+  it('renders something without errors', () => {
+    render(<BobaTilesContainer />);
+    expect(screen.getByText('Milk Tea')).toBeInTheDocument();
+  });
+});
