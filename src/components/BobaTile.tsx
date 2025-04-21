@@ -15,10 +15,7 @@ export default function BobaTile({
   description,
 }: BobaTileProps) {
   return (
-    <div
-      data-testid="boba-tile"
-      className="max-w-sm rounded overflow-hidden shadow-lg"
-    >
+    <div className="max-w-sm rounded overflow-hidden shadow-lg">
       <Image
         src={imageUrl}
         width={234}
