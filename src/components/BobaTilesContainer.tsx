@@ -1,8 +1,8 @@
 import React from 'react';
-import BobaTile from './BobaTile';
 import bobaMenuJson from '../data/bobaMenu.json';
+import Section from './Section';
 
-interface DrinkItem {
+export interface DrinkItem {
   drinkName: string;
   imageUrl: string;
   price: number;
@@ -24,20 +24,11 @@ export default function BobaTilesContainer() {
   return (
     <div>
       {bobaDrinks.sections.map((section) => (
-        <div key={section.sectionName}>
-          <h1>{section.sectionName}</h1>
-          <div className="grid grid-cols-4 gap-6 p-50">
-            {section.drinkItems.map((drink) => (
-              <BobaTile
-                key={drink.drinkName}
-                drinkName={drink.drinkName}
-                imageUrl={drink.imageUrl}
-                price={drink.price}
-                description={drink.description}
-              />
-            ))}
-          </div>
-        </div>
+        <Section
+          key={section.sectionName}
+          sectionName={section.sectionName}
+          drinkItems={section.drinkItems}
+        />
       ))}
     </div>
   );
