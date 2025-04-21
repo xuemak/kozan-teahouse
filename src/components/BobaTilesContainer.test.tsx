@@ -18,6 +18,11 @@ describe(BobaTilesContainer, () => {
 describe(BobaTilesContainer, () => {
   it('renders all BobaTile components', () => {
     render(<BobaTilesContainer />);
-    expect(screen.getAllByTestId('boba-tile')).toHaveLength(3);
+    const bobaTiles = screen.getAllByRole('article');
+    let totalDrinkItems = 0;
+    bobaMenuJson.sections.forEach((section) => {
+      totalDrinkItems += section.drinkItems.length;
+    });
+    expect(bobaTiles).toHaveLength(totalDrinkItems);
   });
 });

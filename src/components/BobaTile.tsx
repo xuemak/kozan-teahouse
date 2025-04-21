@@ -15,7 +15,7 @@ export default function BobaTile({
   description,
 }: BobaTileProps) {
   return (
-    <div className="max-w-sm rounded overflow-hidden shadow-lg">
+    <article className="max-w-sm rounded overflow-hidden shadow-lg">
       <Image
         src={imageUrl}
         width={234}
@@ -32,6 +32,6 @@ export default function BobaTile({
         </p>
         <p className="text-gray-700 text-base text-center pt-6">{price}</p>
       </div>
-    </div>
+    </article>
   );
 }
