@@ -17,10 +17,8 @@ describe(Section, () => {
       screen.getByRole('heading', { name: testSection.sectionName })
     ).toBeInTheDocument();
   });
-});
 
-describe(Section, () => {
-  it('renders all drinks within a section', () => {
+  it('renders all drink tiles within a section', () => {
     render(
       <Section
         sectionName={testSection.sectionName}

@@ -4,13 +4,11 @@ import '@testing-library/jest-dom';
 import bobaMenuJson from '../data/bobaMenu.json';
 
 describe(BobaTilesContainer, () => {
-  it('renders all sections', () => {
+  it.each(bobaMenuJson.sections)('renders the %s section', (section) => {
     render(<BobaTilesContainer />);
-    bobaMenuJson.sections.forEach((section) => {
-      expect(
-        screen.getByRole('heading', { name: section.sectionName, level: 1 })
-      ).toBeInTheDocument();
-    });
+    expect(
+      screen.getByRole('heading', { name: section.sectionName, level: 1 })
+    ).toBeInTheDocument();
   });
 });
 
