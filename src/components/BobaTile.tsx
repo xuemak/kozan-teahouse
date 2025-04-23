@@ -27,7 +27,7 @@ export default function BobaTile({
         <div className="font-black text-base mb-2 text-center uppercase">
           {drinkName}
         </div>
-        <p className="text-stone-500 text-base text-center font-light text-base p-2 h-30">
+        <p className="text-stone-500 text-sm text-center font-light text-base p-2 h-30">
           {description}
         </p>
         <p className="text-gray-700 text-base text-center pt-6 font-serif text-bold">

@@ -23,6 +23,7 @@ const bobaDrinks: BobaMenuStructure = bobaMenuJson as BobaMenuStructure;
 export default function BobaTilesContainer() {
   return (
     <div>
+      <div className="pt-22"></div>
       {bobaDrinks.sections.map((section) => (
         <Section
           key={section.sectionName}
