@@ -15,7 +15,7 @@ export default function BobaTile({
   description,
 }: BobaTileProps) {
   return (
-    <div className="max-w-sm rounded overflow-hidden shadow-lg">
+    <article className="max-w-sm rounded overflow-hidden shadow-lg bg-orange-100">
       <Image
         src={imageUrl}
         width={234}
@@ -23,15 +23,17 @@ export default function BobaTile({
         className="w-full"
         alt={drinkName}
       />
-      <div className="px-3 pb-4 pt-4 bg-orange-100">
-        <div className="font-black text-base mb-2 text-center uppercase">
+      <div className="p-4 bg-orange-100">
+        <div className="font-black text-base mb-2 text-center uppercase min-h-[3rem] flex items-center justify-center">
           {drinkName}
         </div>
-        <p className="text-stone-500 text-base text-center font-light text-base p-2 w-50 h-30">
+        <p className="text-stone-500 text-sm text-center font-light h-20">
           {description}
         </p>
-        <p className="text-gray-700 text-base text-center pt-6">{price}</p>
+        <p className="text-gray-700 text-base text-center pt-6 font-serif text-bold">
+          ${price}
+        </p>
       </div>
-    </div>
+    </article>
   );
 }

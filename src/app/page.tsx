@@ -1,11 +1,11 @@
 import Navbar from '../components/Navbar';
-import Tiles from '../components/Tiles';
+import BobaTilesContainer from '../components/BobaTilesContainer';
 
 export default function Home() {
   return (
     <>
       <Navbar />
-      <Tiles />;
+      <BobaTilesContainer />;
     </>
   );
 }
