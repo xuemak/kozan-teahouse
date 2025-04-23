@@ -15,26 +15,20 @@ describe(BobaTile, () => {
     render(<BobaTile {...mockProps} />);
     expect(screen.getByText(mockProps.drinkName)).toBeInTheDocument();
   });
-});
 
-describe(BobaTile, () => {
   it('renders drink image with correct image source and drink name as alt attribute', () => {
     render(<BobaTile {...mockProps} />);
     const drinkImage = screen.getByAltText(mockProps.drinkName);
     expect(drinkImage).toHaveAttribute('src', mockProps.imageUrl);
   });
-});
 
-describe(BobaTile, () => {
   it('renders drink price', () => {
     render(<BobaTile {...mockProps} />);
     expect(
       screen.getByText(`$${mockProps.price.toString()}`)
     ).toBeInTheDocument();
   });
-});
 
-describe(BobaTile, () => {
   it('renders drink description', () => {
     render(<BobaTile {...mockProps} />);
     expect(screen.getByText(mockProps.description)).toBeInTheDocument();
