@@ -10,9 +10,7 @@ describe(BobaTilesContainer, () => {
       screen.getByRole('heading', { name: section.sectionName, level: 1 })
     ).toBeInTheDocument();
   });
-});
 
-describe(BobaTilesContainer, () => {
   it('renders all BobaTile components', () => {
     render(<BobaTilesContainer />);
     const bobaTiles = screen.getAllByRole('article');

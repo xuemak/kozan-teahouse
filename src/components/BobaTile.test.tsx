@@ -28,7 +28,9 @@ describe(BobaTile, () => {
 describe(BobaTile, () => {
   it('renders drink price', () => {
     render(<BobaTile {...mockProps} />);
-    expect(screen.getByText(mockProps.price.toString())).toBeInTheDocument();
+    expect(
+      screen.getByText(`$${mockProps.price.toString()}`)
+    ).toBeInTheDocument();
   });
 });
 
