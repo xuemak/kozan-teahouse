@@ -1,11 +1,17 @@
 import React from 'react';
 import Link from 'next/link';
+import Image from 'next/image';
 
 export default function Header() {
   return (
     <header>
       <div>
-        <h1>Logo</h1>
+        <Image
+          src="/kozanlogo_fulltext.webp"
+          alt="Kozan Tea House Full Text Logo"
+          width={252}
+          height={87}
+        />
       </div>
       <ul>
         <li>
