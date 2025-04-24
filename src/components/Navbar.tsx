@@ -5,8 +5,8 @@ export default function Navbar() {
   return (
     <nav className="bg-purple-200 fixed w-full">
       <div className="flex flex-wrap items-center justify-center p-4">
-        <div>
-          <ul className="flex p-0 font-medium bg-purple-200 space-x-8">
+        <div className="overflow-x-auto">
+          <ul className="flex p-0 font-medium bg-purple-200 space-x-8 whitespace-nowrap">
             <li>
               <Link href="#milk-tea">Milk Tea</Link>
             </li>
