@@ -1,3 +1,25 @@
 .buttonIcon:hover img {
   filter: invert(1);
 }
+
+.animatedUnderline {
+  position: relative;
+  text-decoration: none;
+  color: inherit;
+  padding-bottom: 5px;
+}
+
+.animatedUnderline::before {
+  content: '';
+  position: absolute;
+  left: 0;
+  bottom: 0;
+  width: 0%;
+  height: 2px;
+  background-color: black;
+  transition: width 0.3s ease-in-out;
+}
+
+.animatedUnderline:hover::before {
+  width: 100%;
+}

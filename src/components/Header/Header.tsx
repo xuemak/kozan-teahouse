@@ -37,12 +37,18 @@ export default function Header() {
             />
             <ul className="flex space-x-7 mt-5 uppercase font-bold tracking-wider">
               <li>
-                <Link href="https://www.instagram.com/kozanteahouse/?hl=en">
+                <Link
+                  href="https://www.instagram.com/kozanteahouse/?hl=en"
+                  className={styles.animatedUnderline}
+                >
                   Instagram
                 </Link>
               </li>
               <li>
-                <Link href="https://squareup.com/gift/E2SHH2PPB06TF/order">
+                <Link
+                  href="https://squareup.com/gift/E2SHH2PPB06TF/order"
+                  className={styles.animatedUnderline}
+                >
                   E-Gift Card
                 </Link>
               </li>
