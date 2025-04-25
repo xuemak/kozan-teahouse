@@ -1,0 +1,3 @@
+.buttonIcon:hover img {
+  filter: invert(1);
+}

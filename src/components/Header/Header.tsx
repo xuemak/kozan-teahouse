@@ -1,8 +1,15 @@
+'use client';
+
 import React from 'react';
 import Link from 'next/link';
 import Image from 'next/image';
+import styles from './Header.module.css';
 
 export default function Header() {
+  const openNewTab = () => {
+    window.open('', '_blank');
+  };
+
   return (
     <header
       className="py-6"
@@ -42,7 +49,10 @@ export default function Header() {
             </ul>
           </div>
           <div className="absolute top-0 right-0 flex space-x-4">
-            <button className="mx-2">
+            <button
+              className={`${styles.buttonIcon} mx-2 cursor-pointer`}
+              onClick={openNewTab}
+            >
               <Image
                 src="/user_icon.png"
                 alt="user icon"
@@ -50,7 +60,10 @@ export default function Header() {
                 height={25}
               />
             </button>
-            <button className="mx-2">
+            <button
+              className={`${styles.buttonIcon} mx-2 cursor-pointer`}
+              onClick={openNewTab}
+            >
               <Image src="/cart.png" alt="cart icon" width={25} height={25} />
             </button>
           </div>
