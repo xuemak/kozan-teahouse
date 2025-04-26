@@ -12,4 +12,7 @@ module.exports = {
   testPathIgnorePatterns: ['<rootDir>/tests/'],
   testMatch: ['<rootDir>/src/**/*.test.(ts|tsx)'],
   collectCoverage: true,
+  moduleNameMapper: {
+    '\\.(css)$': 'identity-obj-proxy',
+  },
 };
